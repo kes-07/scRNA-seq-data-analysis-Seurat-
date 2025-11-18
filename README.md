@@ -316,16 +316,7 @@ setup_environment(config)
 input:
   data_type: "10X"  # Change to local data
   data_path: "/path/to/downloaded/data"
-```
 
-## 📖 Citation
-
-If you use this pipeline in your research, please cite:
-
-```
-Your Paper Title
-Authors et al.
-Journal Year;Volume:Pages
 ```
 
 And the key methods:
@@ -340,16 +331,6 @@ Contributions are welcome! Please:
 1. Fork the repository
 2. Create a feature branch
 3. Submit a pull request
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
-## 📧 Contact
-
-For questions or issues:
-- GitHub Issues: [link to issues]
-- Email: your.email@example.com
 
 ## 🙏 Acknowledgments
 
